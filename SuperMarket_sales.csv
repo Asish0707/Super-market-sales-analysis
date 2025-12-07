@@ -1,0 +1,501 @@
+Invoice Id,Customer_type,Gender,Product_line,Unit_price,Quantity,Payment,Hours,Rating,Tax,Total
+Inv1000,member,male,Health,98.76,5,cash,20,4,24.69,518.49
+Inv1001,normal,male,Beverages,184.1,7,UPI,12,4,64.44,1353.14
+Inv1002,member,male,Beverages,119.48,3,cash,14,4,17.92,376.36
+Inv1003,member,female,Beverages,11.41,2,cash,20,4,1.14,23.96
+Inv1004,member,male,home decor,182.99,6,cash,10,2,54.9,1152.8400000000001
+Inv1005,normal,male,clothing,53.4,2,card,15,1,5.34,112.14
+Inv1006,member,female,home decor,117.64,3,cash,11,3,17.65,370.57
+Inv1007,member,male,clothing,37.28,6,card,21,4,11.18,234.86
+Inv1008,member,female,home decor,11.61,5,card,11,1,2.9,60.949999999999996
+Inv1009,normal,female,home decor,65.74,8,cash,19,1,26.3,552.2199999999999
+Inv1010,member,male,Health,157.2,9,card,10,2,70.74,1485.54
+Inv1011,member,female,Eloctronics,59.13,3,cash,19,1,8.87,186.26000000000002
+Inv1012,member,male,home decor,47.92,3,UPI,16,2,7.19,150.95
+Inv1013,member,female,Health,46.47,3,UPI,14,4,6.97,146.38
+Inv1014,normal,female,Beakery,105.46,6,UPI,9,4,31.64,664.4
+Inv1015,member,male,Eloctronics,195.23,1,UPI,20,3,9.76,204.98999999999998
+Inv1016,normal,female,home decor,94.5,7,card,9,3,33.08,694.58
+Inv1017,normal,female,Beverages,113.67,1,cash,15,3,5.68,119.35
+Inv1018,normal,female,Beakery,172.82,5,cash,16,1,43.2,907.3
+Inv1019,member,female,Beakery,109.34,8,cash,13,4,43.74,918.46
+Inv1020,normal,female,Health,40.97,4,UPI,20,2,8.19,172.07
+Inv1021,member,male,Beakery,63.42,5,UPI,19,3,15.86,332.96000000000004
+Inv1022,normal,female,Eloctronics,65.44,4,cash,13,2,13.09,274.84999999999997
+Inv1023,normal,male,home decor,82.48,4,UPI,12,2,16.5,346.42
+Inv1024,normal,female,home decor,88.22,8,cash,14,3,35.29,741.05
+Inv1025,normal,male,Beverages,160.96,2,cash,14,4,16.1,338.02000000000004
+Inv1026,normal,male,Health,73.13,1,cash,11,3,3.66,76.78999999999999
+Inv1027,normal,female,Beverages,96.31,3,cash,17,2,14.45,303.38
+Inv1028,normal,female,Beakery,126.87,9,cash,20,3,57.09,1198.9199999999998
+Inv1029,normal,female,Beverages,78.66,4,cash,19,2,15.73,330.37
+Inv1030,member,male,Eloctronics,168.13,5,cash,15,2,42.03,882.68
+Inv1031,member,female,home decor,119.55,2,UPI,9,3,11.96,251.06
+Inv1032,normal,male,Beakery,62.34,4,cash,21,1,12.47,261.83000000000004
+Inv1033,normal,male,Beverages,144.24,2,cash,15,3,14.42,302.90000000000003
+Inv1034,normal,male,Health,107.89,2,UPI,13,1,10.79,226.57
+Inv1035,member,female,Eloctronics,109.22,4,UPI,13,2,21.84,458.71999999999997
+Inv1036,normal,female,Eloctronics,98.81,6,UPI,21,2,29.64,622.5
+Inv1037,member,male,Beverages,101.92,7,cash,10,1,35.67,749.11
+Inv1038,member,male,home decor,154.24,3,card,12,2,23.14,485.86
+Inv1039,member,female,Beverages,25.08,3,card,20,1,3.76,79.0
+Inv1040,member,male,Beakery,70.2,6,UPI,14,1,21.06,442.26000000000005
+Inv1041,member,female,Beverages,19.72,3,card,18,2,2.96,62.12
+Inv1042,normal,male,Eloctronics,151.88,2,UPI,19,4,15.19,318.95
+Inv1043,normal,female,Beverages,58.1,8,cash,15,1,23.24,488.04
+Inv1044,normal,male,home decor,180.0,5,card,19,3,45.0,945.0
+Inv1045,normal,female,Health,107.68,1,cash,13,3,5.38,113.06
+Inv1046,normal,male,clothing,161.15,3,card,17,2,24.17,507.62000000000006
+Inv1047,member,female,Beverages,195.89,8,cash,11,4,78.36,1645.4799999999998
+Inv1048,normal,female,home decor,168.76,4,card,9,2,33.75,708.79
+Inv1049,normal,male,home decor,174.06,7,cash,12,4,60.92,1279.3400000000001
+Inv1050,member,male,Health,84.56,2,cash,17,1,8.46,177.58
+Inv1051,normal,female,Eloctronics,112.59,7,card,12,1,39.41,827.54
+Inv1052,member,male,home decor,54.51,5,cash,10,1,13.63,286.18
+Inv1053,normal,female,home decor,43.24,5,cash,18,1,10.81,227.01000000000002
+Inv1054,member,male,home decor,103.57,6,cash,13,3,31.07,652.49
+Inv1055,normal,female,home decor,121.03,9,card,11,3,54.46,1143.73
+Inv1056,normal,female,Beakery,71.16,6,card,21,2,21.35,448.31
+Inv1057,member,female,Beakery,116.04,8,cash,20,4,46.42,974.74
+Inv1058,member,female,Eloctronics,178.05,7,cash,21,1,62.32,1308.67
+Inv1059,member,female,Beverages,113.56,9,card,17,1,51.1,1073.1399999999999
+Inv1060,member,female,home decor,145.56,4,card,12,4,29.11,611.35
+Inv1061,member,male,Health,162.04,2,cash,14,4,16.2,340.28
+Inv1062,member,male,Beverages,197.8,7,cash,10,2,69.23,1453.8300000000002
+Inv1063,member,male,Health,122.62,6,cash,14,4,36.79,772.51
+Inv1064,member,female,Beverages,162.34,1,UPI,11,1,8.12,170.46
+Inv1065,normal,female,Eloctronics,192.72,9,card,20,1,86.72,1821.2
+Inv1066,normal,female,home decor,189.16,9,UPI,20,1,85.12,1787.56
+Inv1067,member,female,home decor,32.51,2,card,17,1,3.25,68.27
+Inv1068,normal,male,clothing,84.25,3,card,19,1,12.64,265.39
+Inv1069,normal,male,Health,68.18,5,card,10,2,17.05,357.95000000000005
+Inv1070,normal,female,Beverages,21.95,5,card,20,1,5.49,115.24
+Inv1071,normal,male,Beverages,128.48,1,card,20,2,6.42,134.89999999999998
+Inv1072,member,male,Beakery,148.5,8,card,17,1,59.4,1247.4
+Inv1073,normal,female,clothing,170.38,8,card,13,3,68.15,1431.19
+Inv1074,member,male,Beakery,28.94,4,UPI,16,3,5.79,121.55000000000001
+Inv1075,normal,female,Beakery,175.91,7,cash,10,3,61.57,1292.9399999999998
+Inv1076,normal,male,Beakery,130.37,3,cash,14,3,19.56,410.67
+Inv1077,normal,female,Health,142.27,6,UPI,11,2,42.68,896.3000000000001
+Inv1078,member,female,Health,182.57,9,UPI,20,2,82.16,1725.29
+Inv1079,normal,female,Eloctronics,126.83,1,UPI,20,4,6.34,133.17
+Inv1080,member,female,Eloctronics,70.49,5,UPI,18,1,17.62,370.07
+Inv1081,normal,male,Beakery,165.9,4,card,13,3,33.18,696.78
+Inv1082,member,female,clothing,75.8,8,cash,20,2,30.32,636.72
+Inv1083,normal,female,Beverages,11.67,1,card,16,1,0.58,12.25
+Inv1084,member,female,Health,166.98,9,cash,18,1,75.14,1577.96
+Inv1085,member,male,clothing,72.31,6,cash,9,2,21.69,455.55
+Inv1086,normal,female,home decor,155.9,4,UPI,13,3,31.18,654.78
+Inv1087,member,male,Health,75.74,9,card,11,4,34.08,715.74
+Inv1088,normal,female,Health,172.91,5,UPI,12,1,43.23,907.78
+Inv1089,normal,male,Eloctronics,47.8,5,card,10,4,11.95,250.95
+Inv1090,normal,male,Beverages,195.04,5,cash,17,3,48.76,1023.9599999999999
+Inv1091,normal,female,Beverages,157.05,1,UPI,11,3,7.85,164.9
+Inv1092,normal,male,home decor,27.28,1,UPI,10,4,1.36,28.64
+Inv1093,normal,female,home decor,115.33,8,cash,18,3,46.13,968.77
+Inv1094,normal,female,Health,197.15,8,cash,19,1,78.86,1656.06
+Inv1095,normal,female,Beakery,96.86,6,cash,17,4,29.06,610.2199999999999
+Inv1096,normal,male,Eloctronics,40.51,4,UPI,15,3,8.1,170.14
+Inv1097,normal,male,Eloctronics,99.53,2,card,14,4,9.95,209.01
+Inv1098,normal,female,Health,104.93,2,UPI,9,1,10.49,220.35000000000002
+Inv1099,member,female,clothing,149.63,9,card,13,3,67.33,1414.0
+Inv1100,member,male,Beakery,141.27,5,UPI,20,1,35.32,741.6700000000001
+Inv1101,normal,female,Health,83.5,4,UPI,19,3,16.7,350.7
+Inv1102,normal,female,Beakery,47.51,1,cash,19,2,2.38,49.89
+Inv1103,normal,female,Beakery,130.79,7,card,11,3,45.78,961.31
+Inv1104,normal,male,Beakery,87.23,3,UPI,9,4,13.08,274.77
+Inv1105,normal,male,Health,30.79,6,UPI,12,3,9.24,193.98000000000002
+Inv1106,normal,male,Eloctronics,180.61,5,cash,21,1,45.15,948.2
+Inv1107,normal,female,Eloctronics,139.79,5,cash,10,1,34.95,733.9
+Inv1108,normal,female,Beakery,138.22,5,card,10,3,34.56,725.6600000000001
+Inv1109,member,female,clothing,165.4,1,UPI,11,4,8.27,173.67000000000002
+Inv1110,normal,male,Beverages,108.28,1,card,16,2,5.41,113.69
+Inv1111,member,female,Health,163.94,3,UPI,16,4,24.59,516.41
+Inv1112,normal,female,Beverages,102.13,4,card,20,2,20.43,428.95
+Inv1113,normal,female,clothing,18.1,5,cash,15,1,4.53,95.03
+Inv1114,member,female,Health,84.02,2,UPI,14,4,8.4,176.44
+Inv1115,normal,male,Beakery,102.01,8,card,17,2,40.8,856.88
+Inv1116,member,male,Eloctronics,145.44,2,cash,12,3,14.54,305.42
+Inv1117,normal,female,Beverages,25.78,9,cash,20,1,11.6,243.62
+Inv1118,normal,male,home decor,32.3,2,card,9,3,3.23,67.83
+Inv1119,member,male,home decor,56.42,9,UPI,16,1,25.39,533.1700000000001
+Inv1120,normal,female,clothing,56.97,7,UPI,15,4,19.94,418.72999999999996
+Inv1121,member,female,Beakery,147.78,8,cash,15,4,59.11,1241.35
+Inv1122,normal,male,Beverages,53.89,2,UPI,11,1,5.39,113.17
+Inv1123,member,female,Beakery,128.45,7,UPI,12,1,44.96,944.1099999999999
+Inv1124,member,male,Beverages,101.38,6,UPI,18,1,30.41,638.6899999999999
+Inv1125,normal,female,clothing,116.79,4,cash,17,4,23.36,490.52000000000004
+Inv1126,normal,male,clothing,168.43,7,card,14,2,58.95,1237.96
+Inv1127,member,female,home decor,83.85,4,UPI,13,3,16.77,352.16999999999996
+Inv1128,normal,male,Beakery,155.33,2,cash,11,3,15.53,326.19
+Inv1129,normal,male,Health,87.3,7,cash,17,4,30.56,641.66
+Inv1130,normal,male,home decor,74.0,8,card,13,3,29.6,621.6
+Inv1131,member,female,Beakery,191.93,2,UPI,13,1,19.19,403.05
+Inv1132,member,male,home decor,40.95,5,UPI,12,2,10.24,214.99
+Inv1133,member,male,Health,22.62,1,card,12,3,1.13,23.75
+Inv1134,member,female,Eloctronics,155.34,7,card,20,2,54.37,1141.75
+Inv1135,member,female,Eloctronics,18.31,8,cash,9,1,7.32,153.79999999999998
+Inv1136,member,male,Eloctronics,168.23,6,cash,15,3,50.47,1059.85
+Inv1137,member,male,Eloctronics,90.25,5,card,17,4,22.56,473.81
+Inv1138,member,female,Beverages,183.53,6,UPI,11,2,55.06,1156.24
+Inv1139,member,female,Eloctronics,145.7,2,cash,20,1,14.57,305.96999999999997
+Inv1140,normal,female,Health,124.03,1,cash,21,2,6.2,130.23
+Inv1141,member,female,clothing,190.11,7,UPI,10,3,66.54,1397.31
+Inv1142,normal,female,clothing,82.35,7,cash,11,3,28.82,605.27
+Inv1143,normal,male,Beverages,191.05,2,UPI,9,4,19.1,401.20000000000005
+Inv1144,normal,female,Eloctronics,31.33,2,UPI,14,1,3.13,65.78999999999999
+Inv1145,member,male,Eloctronics,99.33,1,UPI,19,1,4.97,104.3
+Inv1146,member,male,Eloctronics,57.63,8,card,19,4,23.05,484.09000000000003
+Inv1147,member,male,home decor,110.27,8,card,15,4,44.11,926.27
+Inv1148,member,female,Beakery,36.59,1,card,19,1,1.83,38.42
+Inv1149,normal,male,home decor,169.1,8,UPI,19,2,67.64,1420.44
+Inv1150,member,male,Beakery,170.05,9,UPI,10,2,76.52,1606.97
+Inv1151,member,female,Eloctronics,191.27,4,card,16,4,38.25,803.33
+Inv1152,member,male,Eloctronics,35.16,1,cash,14,2,1.76,36.919999999999995
+Inv1153,member,male,home decor,126.55,1,UPI,12,1,6.33,132.88
+Inv1154,member,female,home decor,97.48,3,cash,13,3,14.62,307.06
+Inv1155,normal,male,Beakery,72.15,5,cash,16,3,18.04,378.79
+Inv1156,member,male,clothing,73.55,5,UPI,11,2,18.39,386.14
+Inv1157,normal,male,Beakery,85.49,9,UPI,11,4,38.47,807.88
+Inv1158,member,female,home decor,142.46,2,cash,19,4,14.25,299.17
+Inv1159,normal,female,Health,121.67,2,cash,12,4,12.17,255.51
+Inv1160,member,female,home decor,94.64,6,card,9,4,28.39,596.23
+Inv1161,member,male,Health,19.81,9,card,17,4,8.91,187.2
+Inv1162,normal,male,Beverages,20.16,1,UPI,16,2,1.01,21.17
+Inv1163,normal,female,home decor,5.46,9,card,16,3,2.46,51.6
+Inv1164,normal,male,Beverages,193.7,9,card,18,3,87.16,1830.46
+Inv1165,member,male,clothing,6.02,9,card,14,2,2.71,56.88999999999999
+Inv1166,normal,female,Beakery,25.1,5,card,15,4,6.28,131.78
+Inv1167,member,female,Health,66.35,9,cash,14,2,29.86,627.01
+Inv1168,member,male,Beakery,162.45,4,UPI,17,3,32.49,682.29
+Inv1169,normal,male,Beverages,192.61,2,card,11,1,19.26,404.48
+Inv1170,normal,male,Health,159.05,6,cash,11,2,47.72,1002.0200000000001
+Inv1171,member,female,Beakery,139.66,4,cash,11,4,27.93,586.5699999999999
+Inv1172,member,female,home decor,106.65,6,cash,18,3,32.0,671.9000000000001
+Inv1173,normal,female,Eloctronics,21.91,3,card,11,3,3.29,69.02000000000001
+Inv1174,normal,female,Beverages,191.84,6,card,17,3,57.55,1208.59
+Inv1175,normal,male,Beakery,152.89,2,UPI,20,3,15.29,321.07
+Inv1176,member,female,Beverages,129.6,2,card,12,4,12.96,272.15999999999997
+Inv1177,member,female,Beverages,153.01,9,card,21,1,68.85,1445.9399999999998
+Inv1178,member,female,Health,146.2,7,cash,15,3,51.17,1074.57
+Inv1179,member,female,Health,129.26,3,UPI,17,2,19.39,407.16999999999996
+Inv1180,member,female,Eloctronics,196.21,1,card,19,1,9.81,206.02
+Inv1181,member,male,home decor,181.16,8,card,20,3,72.46,1521.74
+Inv1182,normal,male,Beverages,131.1,6,cash,15,1,39.33,825.93
+Inv1183,member,female,Beakery,140.17,7,cash,17,2,49.06,1030.25
+Inv1184,member,male,clothing,15.06,9,card,20,3,6.78,142.32
+Inv1185,member,female,Beverages,135.63,5,UPI,11,2,33.91,712.06
+Inv1186,normal,female,Beverages,13.61,1,UPI,12,4,0.68,14.29
+Inv1187,member,male,Eloctronics,119.71,7,cash,16,3,41.9,879.8699999999999
+Inv1188,member,male,home decor,199.87,5,cash,14,3,49.97,1049.32
+Inv1189,normal,female,clothing,113.38,3,card,13,3,17.01,357.15
+Inv1190,member,female,Health,97.28,9,cash,21,3,43.78,919.3
+Inv1191,member,female,Health,66.01,1,card,12,4,3.3,69.31
+Inv1192,member,male,Beakery,28.5,1,UPI,16,3,1.42,29.92
+Inv1193,member,female,clothing,147.55,1,UPI,9,1,7.38,154.93
+Inv1194,member,female,Health,42.56,3,card,17,3,6.38,134.06
+Inv1195,normal,female,Beakery,27.48,6,cash,9,4,8.24,173.12
+Inv1196,normal,male,home decor,87.24,3,UPI,16,3,13.09,274.80999999999995
+Inv1197,normal,female,Beakery,160.09,8,cash,12,1,64.04,1344.76
+Inv1198,member,female,Health,150.29,2,UPI,17,4,15.03,315.60999999999996
+Inv1199,member,male,Eloctronics,15.7,9,card,19,4,7.06,148.35999999999999
+Inv1200,member,female,Eloctronics,93.75,3,card,13,1,14.06,295.31
+Inv1201,normal,female,Eloctronics,106.87,5,card,11,1,26.72,561.07
+Inv1202,member,male,Health,130.69,8,UPI,17,1,52.28,1097.8
+Inv1203,member,female,Eloctronics,131.78,2,cash,19,1,13.18,276.74
+Inv1204,normal,male,clothing,76.12,6,cash,17,1,22.84,479.56
+Inv1205,member,male,home decor,114.33,5,cash,12,4,28.58,600.23
+Inv1206,normal,female,Beakery,98.81,9,UPI,19,4,44.46,933.75
+Inv1207,normal,female,Beakery,177.57,5,UPI,12,3,44.39,932.2399999999999
+Inv1208,normal,female,Health,108.4,2,UPI,20,3,10.84,227.64000000000001
+Inv1209,member,female,Eloctronics,91.0,5,UPI,16,2,22.75,477.75
+Inv1210,member,male,Eloctronics,83.87,4,UPI,10,3,16.77,352.25
+Inv1211,member,female,Beverages,116.62,7,cash,17,3,40.82,857.1600000000001
+Inv1212,member,male,home decor,161.78,6,UPI,21,1,48.53,1019.21
+Inv1213,member,female,clothing,109.99,2,UPI,14,1,11.0,230.98
+Inv1214,member,female,Beakery,134.02,5,cash,17,3,33.51,703.61
+Inv1215,member,female,Beverages,148.88,7,UPI,16,2,52.11,1094.2699999999998
+Inv1216,normal,male,Beverages,106.43,7,cash,15,1,37.25,782.26
+Inv1217,member,female,Health,88.23,5,cash,21,3,22.06,463.21000000000004
+Inv1218,normal,female,Beakery,175.95,9,card,9,3,79.18,1662.73
+Inv1219,member,female,Health,86.41,4,card,20,4,17.28,362.91999999999996
+Inv1220,member,female,clothing,95.08,3,card,11,2,14.26,299.5
+Inv1221,member,male,Beverages,198.12,4,card,19,4,39.62,832.1
+Inv1222,normal,female,Beverages,5.05,5,UPI,10,2,1.26,26.51
+Inv1223,normal,male,home decor,41.17,6,card,13,1,12.35,259.37
+Inv1224,normal,male,clothing,79.87,3,cash,13,2,11.98,251.59
+Inv1225,normal,male,Beverages,186.86,2,UPI,13,3,18.69,392.41
+Inv1226,member,male,clothing,18.66,4,card,12,3,3.73,78.37
+Inv1227,normal,male,Beakery,6.85,5,cash,13,2,1.71,35.96
+Inv1228,member,male,Eloctronics,15.27,4,UPI,11,2,3.05,64.13
+Inv1229,member,female,Beverages,22.27,3,UPI,20,2,3.34,70.15
+Inv1230,normal,male,home decor,12.33,8,card,9,4,4.93,103.57
+Inv1231,normal,male,Beakery,98.56,4,UPI,13,2,19.71,413.95
+Inv1232,normal,male,clothing,118.25,2,cash,21,1,11.82,248.32
+Inv1233,normal,female,Health,57.98,2,UPI,17,4,5.8,121.75999999999999
+Inv1234,normal,female,Beakery,82.67,1,cash,21,4,4.13,86.8
+Inv1235,normal,male,Beverages,22.88,4,UPI,17,2,4.58,96.1
+Inv1236,normal,female,clothing,70.59,9,card,12,1,31.77,667.08
+Inv1237,normal,male,Eloctronics,106.89,7,cash,11,4,37.41,785.64
+Inv1238,member,male,Beakery,147.79,7,UPI,9,3,51.73,1086.26
+Inv1239,normal,female,Beverages,5.65,7,UPI,10,4,1.98,41.53
+Inv1240,normal,male,home decor,96.13,8,UPI,16,2,38.45,807.49
+Inv1241,member,female,Health,62.92,1,cash,9,1,3.15,66.07000000000001
+Inv1242,normal,female,clothing,171.3,8,cash,16,2,68.52,1438.92
+Inv1243,member,male,Beakery,144.53,4,cash,21,3,28.91,607.03
+Inv1244,member,male,Beakery,119.88,4,card,15,3,23.98,503.5
+Inv1245,normal,female,Eloctronics,59.07,4,card,16,3,11.81,248.09
+Inv1246,member,male,Eloctronics,182.52,6,cash,20,2,54.76,1149.88
+Inv1247,member,male,home decor,13.79,7,UPI,14,4,4.83,101.36
+Inv1248,member,male,Health,26.35,6,card,20,2,7.91,166.01000000000002
+Inv1249,member,female,home decor,81.37,1,cash,17,1,4.07,85.44
+Inv1250,normal,female,Beverages,29.27,8,UPI,11,4,11.71,245.87
+Inv1251,member,male,Beverages,191.5,7,card,18,3,67.03,1407.53
+Inv1252,normal,female,home decor,160.61,6,UPI,12,2,48.18,1011.84
+Inv1253,member,female,Health,55.5,6,UPI,21,3,16.65,349.65
+Inv1254,member,female,home decor,119.77,5,UPI,14,3,29.94,628.7900000000001
+Inv1255,member,female,Health,196.55,6,UPI,16,1,58.97,1238.2700000000002
+Inv1256,member,female,Health,177.42,9,card,13,4,79.84,1676.62
+Inv1257,normal,male,clothing,122.16,9,card,11,1,54.97,1154.41
+Inv1258,normal,male,Health,181.23,8,card,14,1,72.49,1522.33
+Inv1259,member,male,Eloctronics,197.89,9,cash,12,1,89.05,1870.0599999999997
+Inv1260,member,female,Health,149.95,8,card,17,3,59.98,1259.58
+Inv1261,normal,female,Health,17.67,8,UPI,21,1,7.07,148.43
+Inv1262,member,male,Health,83.31,1,card,11,1,4.17,87.48
+Inv1263,member,female,Beverages,168.38,5,UPI,12,4,42.1,884.0
+Inv1264,member,male,Eloctronics,49.96,4,cash,15,4,9.99,209.83
+Inv1265,normal,male,Eloctronics,166.98,2,UPI,15,1,16.7,350.65999999999997
+Inv1266,normal,male,home decor,28.47,8,UPI,20,4,11.39,239.14999999999998
+Inv1267,normal,female,clothing,14.15,3,UPI,20,4,2.12,44.57
+Inv1268,member,female,Health,79.9,4,cash,12,1,15.98,335.58000000000004
+Inv1269,member,male,Beakery,12.16,7,card,14,3,4.26,89.38000000000001
+Inv1270,normal,male,clothing,191.67,9,card,20,1,86.25,1811.28
+Inv1271,normal,male,clothing,166.11,2,cash,21,4,16.61,348.83000000000004
+Inv1272,normal,male,Eloctronics,161.15,3,UPI,11,3,24.17,507.62000000000006
+Inv1273,normal,female,clothing,127.81,4,card,14,2,25.56,536.8
+Inv1274,member,female,Health,47.18,1,cash,20,3,2.36,49.54
+Inv1275,normal,male,Health,106.06,7,card,10,4,37.12,779.5400000000001
+Inv1276,member,male,Beverages,121.47,2,cash,16,3,12.15,255.09
+Inv1277,normal,female,Health,107.38,5,UPI,10,1,26.84,563.74
+Inv1278,member,female,Health,55.75,1,card,19,2,2.79,58.54
+Inv1279,normal,male,Eloctronics,105.47,3,cash,15,2,15.82,332.22999999999996
+Inv1280,normal,male,Health,100.78,2,card,17,2,10.08,211.64000000000001
+Inv1281,normal,male,Beverages,199.29,1,card,9,4,9.96,209.25
+Inv1282,normal,female,Beakery,180.0,7,card,16,4,63.0,1323.0
+Inv1283,member,female,Eloctronics,95.36,5,card,15,2,23.84,500.64
+Inv1284,normal,female,Beakery,126.47,1,cash,14,3,6.32,132.79
+Inv1285,member,male,Eloctronics,150.83,6,UPI,14,2,45.25,950.23
+Inv1286,member,male,home decor,11.8,5,cash,14,3,2.95,61.95
+Inv1287,member,female,clothing,179.51,3,cash,17,3,26.93,565.4599999999999
+Inv1288,member,female,home decor,172.72,7,cash,10,4,60.45,1269.49
+Inv1289,normal,male,Health,94.2,9,UPI,9,3,42.39,890.19
+Inv1290,member,female,Beakery,81.28,9,card,21,2,36.58,768.1
+Inv1291,member,female,Health,58.23,9,card,20,4,26.2,550.27
+Inv1292,member,male,clothing,97.95,2,card,14,1,9.8,205.70000000000002
+Inv1293,normal,female,Eloctronics,13.65,3,UPI,18,1,2.05,43.0
+Inv1294,normal,male,clothing,171.18,7,card,19,4,59.91,1258.17
+Inv1295,normal,male,Beverages,11.91,5,UPI,16,2,2.98,62.529999999999994
+Inv1296,normal,male,clothing,69.17,2,card,11,1,6.92,145.26
+Inv1297,member,male,Beverages,186.66,3,card,20,1,28.0,587.98
+Inv1298,member,male,clothing,148.37,6,cash,18,3,44.51,934.73
+Inv1299,normal,male,Beverages,59.87,7,UPI,9,3,20.95,440.03999999999996
+Inv1300,member,male,Beakery,54.27,9,cash,17,2,24.42,512.85
+Inv1301,member,female,Health,5.99,1,cash,21,4,0.3,6.29
+Inv1302,member,male,Health,140.66,7,cash,21,2,49.23,1033.85
+Inv1303,normal,male,home decor,14.51,8,UPI,9,4,5.8,121.88
+Inv1304,normal,female,Health,108.86,3,UPI,11,1,16.33,342.90999999999997
+Inv1305,member,female,Eloctronics,192.61,4,card,16,3,38.52,808.96
+Inv1306,normal,female,clothing,26.35,6,cash,11,2,7.91,166.01000000000002
+Inv1307,normal,male,home decor,179.42,7,card,21,2,62.8,1318.7399999999998
+Inv1308,normal,female,Eloctronics,198.34,4,cash,12,4,39.67,833.03
+Inv1309,normal,male,Eloctronics,17.0,8,UPI,16,4,6.8,142.8
+Inv1310,normal,male,Beverages,177.17,5,UPI,9,2,44.29,930.1399999999999
+Inv1311,member,male,Health,105.64,1,UPI,21,4,5.28,110.92
+Inv1312,normal,male,Beakery,181.77,4,cash,21,2,36.35,763.4300000000001
+Inv1313,member,female,Beakery,116.41,3,UPI,14,2,17.46,366.69
+Inv1314,member,female,home decor,134.11,9,cash,9,2,60.35,1267.3400000000001
+Inv1315,normal,male,Beakery,111.04,8,card,9,1,44.42,932.74
+Inv1316,member,male,clothing,173.58,1,cash,16,4,8.68,182.26000000000002
+Inv1317,member,male,Beakery,148.11,6,card,19,3,44.43,933.09
+Inv1318,member,female,home decor,106.65,9,cash,12,3,47.99,1007.84
+Inv1319,normal,male,Beakery,174.29,7,card,20,4,61.0,1281.03
+Inv1320,normal,male,clothing,52.83,4,UPI,9,2,10.57,221.89
+Inv1321,member,female,Beverages,35.68,1,card,18,3,1.78,37.46
+Inv1322,normal,female,home decor,36.28,2,UPI,15,3,3.63,76.19
+Inv1323,normal,male,Beverages,70.13,5,UPI,13,4,17.53,368.17999999999995
+Inv1324,normal,female,Beverages,51.54,5,card,13,3,12.88,270.58
+Inv1325,normal,female,Beverages,186.37,8,cash,9,2,74.55,1565.51
+Inv1326,member,male,Eloctronics,25.64,6,cash,18,4,7.69,161.53
+Inv1327,member,female,Health,141.3,8,cash,19,2,56.52,1186.92
+Inv1328,normal,male,Eloctronics,41.9,2,cash,14,3,4.19,87.99
+Inv1329,normal,female,Health,176.92,3,cash,17,3,26.54,557.3
+Inv1330,member,male,Beverages,192.46,6,UPI,17,2,57.74,1212.5
+Inv1331,member,male,home decor,95.77,3,cash,16,1,14.37,301.68
+Inv1332,normal,male,Health,176.42,6,UPI,13,3,52.93,1111.45
+Inv1333,member,female,clothing,6.0,6,UPI,9,1,1.8,37.8
+Inv1334,normal,male,clothing,164.89,2,UPI,17,3,16.49,346.27
+Inv1335,normal,female,Beakery,49.58,7,card,9,1,17.35,364.41
+Inv1336,member,male,Health,182.2,2,card,16,1,18.22,382.62
+Inv1337,member,male,home decor,5.22,6,UPI,13,1,1.57,32.89
+Inv1338,normal,female,Eloctronics,113.46,1,card,11,2,5.67,119.13
+Inv1339,normal,male,Beverages,152.54,3,cash,19,1,22.88,480.5
+Inv1340,member,male,Beakery,55.44,2,cash,15,1,5.54,116.42
+Inv1341,normal,female,clothing,42.66,7,UPI,15,1,14.93,313.55
+Inv1342,member,male,Eloctronics,21.4,4,cash,17,3,4.28,89.88
+Inv1343,normal,male,Eloctronics,68.65,8,UPI,15,1,27.46,576.6600000000001
+Inv1344,member,male,Beverages,114.17,6,UPI,21,3,34.25,719.27
+Inv1345,member,male,Health,27.59,4,cash,19,1,5.52,115.88
+Inv1346,member,female,clothing,78.46,5,card,11,1,19.61,411.90999999999997
+Inv1347,normal,female,home decor,6.77,9,cash,19,2,3.05,63.97999999999999
+Inv1348,normal,male,Eloctronics,164.64,7,cash,21,3,57.62,1210.1
+Inv1349,member,female,Beverages,30.05,9,UPI,21,1,13.52,283.96999999999997
+Inv1350,normal,male,home decor,60.25,7,UPI,9,3,21.09,442.84
+Inv1351,member,female,Health,8.59,1,UPI,16,3,0.43,9.02
+Inv1352,member,male,clothing,89.29,8,UPI,20,4,35.72,750.0400000000001
+Inv1353,normal,male,Health,168.82,4,card,11,2,33.76,709.04
+Inv1354,normal,male,Eloctronics,81.47,3,card,20,2,12.22,256.63
+Inv1355,member,male,home decor,40.0,7,card,16,2,14.0,294.0
+Inv1356,normal,male,home decor,151.97,3,UPI,16,4,22.8,478.71
+Inv1357,normal,male,home decor,158.82,8,UPI,21,4,63.53,1334.09
+Inv1358,member,female,Eloctronics,38.88,6,UPI,13,2,11.66,244.94000000000003
+Inv1359,member,male,Eloctronics,155.32,5,card,21,4,38.83,815.43
+Inv1360,normal,female,Health,189.72,4,UPI,20,4,37.94,796.8199999999999
+Inv1361,member,male,Beakery,37.44,8,cash,21,4,14.98,314.5
+Inv1362,member,female,Health,155.34,8,cash,9,2,62.14,1304.8600000000001
+Inv1363,normal,female,clothing,143.17,1,UPI,21,2,7.16,150.32999999999998
+Inv1364,member,female,Beverages,97.35,9,cash,18,2,43.81,919.96
+Inv1365,member,male,home decor,16.29,5,cash,15,4,4.07,85.51999999999998
+Inv1366,normal,male,Beakery,19.57,4,card,20,2,3.91,82.19
+Inv1367,normal,female,Beverages,171.22,6,UPI,18,4,51.37,1078.6899999999998
+Inv1368,member,male,Beakery,198.08,6,UPI,13,1,59.42,1247.9
+Inv1369,member,female,Health,136.83,2,card,16,4,13.68,287.34000000000003
+Inv1370,normal,male,Eloctronics,91.96,8,cash,17,3,36.78,772.4599999999999
+Inv1371,normal,female,home decor,131.28,7,cash,19,2,45.95,964.9100000000001
+Inv1372,normal,female,Health,120.91,1,UPI,15,2,6.05,126.96
+Inv1373,normal,male,Beverages,79.8,5,cash,21,3,19.95,418.95
+Inv1374,member,female,Beverages,17.8,6,card,15,4,5.34,112.14000000000001
+Inv1375,normal,male,Beverages,165.2,4,card,9,1,33.04,693.8399999999999
+Inv1376,normal,female,Beverages,77.51,2,UPI,12,3,7.75,162.77
+Inv1377,member,female,Beverages,164.66,4,card,10,3,32.93,691.5699999999999
+Inv1378,normal,male,Beakery,54.24,1,card,10,4,2.71,56.95
+Inv1379,member,male,Health,5.2,7,UPI,10,2,1.82,38.22
+Inv1380,normal,male,home decor,35.99,2,card,12,4,3.6,75.58
+Inv1381,normal,female,Eloctronics,96.37,2,card,9,3,9.64,202.38
+Inv1382,normal,male,Eloctronics,189.14,9,card,12,3,85.11,1787.3699999999997
+Inv1383,member,female,Health,24.93,5,cash,10,2,6.23,130.88
+Inv1384,member,female,Health,171.57,2,UPI,13,2,17.16,360.3
+Inv1385,normal,male,Eloctronics,107.77,9,UPI,11,2,48.5,1018.43
+Inv1386,member,male,Eloctronics,166.05,9,UPI,20,4,74.72,1569.17
+Inv1387,member,female,Beakery,63.18,1,cash,16,2,3.16,66.34
+Inv1388,member,female,clothing,168.79,3,cash,12,3,25.32,531.69
+Inv1389,member,male,home decor,155.7,4,UPI,9,3,31.14,653.9399999999999
+Inv1390,member,male,Beverages,49.86,7,cash,9,1,17.45,366.46999999999997
+Inv1391,member,male,clothing,30.61,4,UPI,20,4,6.12,128.56
+Inv1392,normal,male,Health,174.27,2,cash,18,1,17.43,365.97
+Inv1393,normal,male,Eloctronics,192.83,7,card,11,3,67.49,1417.3000000000002
+Inv1394,member,female,clothing,11.1,6,card,17,1,3.33,69.92999999999999
+Inv1395,normal,female,home decor,147.6,3,UPI,15,3,22.14,464.93999999999994
+Inv1396,normal,female,Health,182.36,6,cash,10,1,54.71,1148.8700000000001
+Inv1397,normal,female,Beverages,172.19,6,cash,21,2,51.66,1084.8
+Inv1398,normal,male,Beverages,193.08,5,card,17,1,48.27,1013.6700000000001
+Inv1399,member,male,home decor,153.22,4,card,18,2,30.64,643.52
+Inv1400,normal,male,home decor,91.25,1,cash,10,2,4.56,95.81
+Inv1401,normal,female,Eloctronics,65.83,6,cash,11,4,19.75,414.73
+Inv1402,member,female,Beverages,67.54,2,cash,19,2,6.75,141.83
+Inv1403,member,male,Health,146.26,3,cash,21,2,21.94,460.71999999999997
+Inv1404,normal,male,clothing,150.44,8,cash,18,1,60.18,1263.7
+Inv1405,normal,female,Health,44.07,6,cash,10,3,13.22,277.64000000000004
+Inv1406,normal,female,Beakery,174.28,3,UPI,11,4,26.14,548.98
+Inv1407,normal,male,Beakery,144.41,7,cash,14,2,50.54,1061.41
+Inv1408,normal,male,home decor,114.74,4,card,17,4,22.95,481.90999999999997
+Inv1409,normal,female,Eloctronics,96.95,9,UPI,17,1,43.63,916.1800000000001
+Inv1410,member,male,Beakery,110.93,5,cash,15,2,27.73,582.3800000000001
+Inv1411,normal,male,Beverages,36.05,3,card,20,1,5.41,113.55999999999999
+Inv1412,normal,male,Health,44.72,2,UPI,11,4,4.47,93.91
+Inv1413,member,female,Health,22.78,2,card,12,1,2.28,47.84
+Inv1414,member,female,home decor,34.96,3,cash,14,4,5.24,110.11999999999999
+Inv1415,member,female,clothing,93.47,2,cash,19,1,9.35,196.29
+Inv1416,member,female,home decor,108.42,4,cash,13,4,21.68,455.36
+Inv1417,normal,female,clothing,8.48,2,cash,10,3,0.85,17.810000000000002
+Inv1418,normal,female,home decor,160.38,9,UPI,21,1,72.17,1515.5900000000001
+Inv1419,normal,female,home decor,62.36,2,UPI,14,1,6.24,130.96
+Inv1420,normal,male,home decor,182.81,9,card,11,3,82.26,1727.55
+Inv1421,normal,male,clothing,193.66,6,cash,16,3,58.1,1220.06
+Inv1422,normal,male,clothing,41.16,1,card,10,1,2.06,43.22
+Inv1423,member,male,home decor,95.11,4,UPI,9,3,19.02,399.46
+Inv1424,normal,male,Beakery,5.24,1,cash,17,2,0.26,5.5
+Inv1425,member,male,Eloctronics,121.67,6,cash,20,4,36.5,766.52
+Inv1426,member,male,Eloctronics,123.42,4,UPI,11,4,24.68,518.36
+Inv1427,normal,female,Eloctronics,53.27,3,UPI,19,4,7.99,167.8
+Inv1428,member,female,clothing,113.89,3,UPI,9,2,17.08,358.75
+Inv1429,normal,male,clothing,48.98,9,UPI,15,3,22.04,462.86
+Inv1430,member,male,Beakery,36.36,6,UPI,21,3,10.91,229.07
+Inv1431,normal,female,Eloctronics,132.05,9,cash,18,1,59.42,1247.8700000000001
+Inv1432,member,male,Eloctronics,68.56,5,UPI,13,3,17.14,359.94
+Inv1433,normal,male,home decor,120.1,2,cash,13,1,12.01,252.20999999999998
+Inv1434,normal,female,clothing,89.48,8,cash,9,2,35.79,751.63
+Inv1435,normal,male,Eloctronics,196.95,5,UPI,17,4,49.24,1033.99
+Inv1436,normal,female,Health,34.17,2,UPI,15,4,3.42,71.76
+Inv1437,normal,male,Beakery,95.6,4,cash,16,4,19.12,401.52
+Inv1438,member,female,Health,137.69,9,UPI,17,3,61.96,1301.17
+Inv1439,member,female,Health,82.13,4,UPI,14,1,16.43,344.95
+Inv1440,member,female,Beakery,195.07,4,UPI,20,1,39.01,819.29
+Inv1441,normal,male,Health,145.77,2,card,13,2,14.58,306.12
+Inv1442,member,female,Eloctronics,133.11,6,cash,14,3,39.93,838.59
+Inv1443,normal,male,clothing,152.63,2,card,19,2,15.26,320.52
+Inv1444,normal,male,Beakery,190.77,7,UPI,10,1,66.77,1402.16
+Inv1445,member,male,home decor,182.02,3,card,12,1,27.3,573.36
+Inv1446,member,male,Health,146.24,3,UPI,11,4,21.94,460.66
+Inv1447,normal,female,Beakery,151.09,5,card,21,3,37.77,793.22
+Inv1448,member,female,Beverages,33.45,3,UPI,15,1,5.02,105.37
+Inv1449,normal,male,Beverages,25.04,2,card,17,4,2.5,52.58
+Inv1450,normal,male,clothing,116.33,9,card,13,3,52.35,1099.32
+Inv1451,normal,female,Eloctronics,8.58,2,card,14,2,0.86,18.02
+Inv1452,normal,male,clothing,99.06,2,cash,18,3,9.91,208.03
+Inv1453,normal,female,clothing,46.02,8,card,20,3,18.41,386.57000000000005
+Inv1454,member,male,clothing,72.47,9,cash,20,1,32.61,684.84
+Inv1455,member,male,clothing,156.28,7,UPI,10,1,54.7,1148.66
+Inv1456,normal,female,home decor,188.54,3,card,11,3,28.28,593.9
+Inv1457,normal,male,home decor,19.12,9,UPI,11,1,8.6,180.68
+Inv1458,member,female,Beakery,109.18,3,UPI,20,1,16.38,343.92
+Inv1459,member,male,Beverages,177.09,5,card,20,1,44.27,929.72
+Inv1460,normal,male,clothing,21.09,9,cash,17,4,9.49,199.3
+Inv1461,member,male,Beakery,165.78,3,card,15,4,24.87,522.21
+Inv1462,normal,female,Beverages,74.77,7,UPI,16,3,26.17,549.56
+Inv1463,member,male,Health,67.81,1,UPI,19,1,3.39,71.2
+Inv1464,normal,male,Eloctronics,195.61,4,card,18,4,39.12,821.5600000000001
+Inv1465,member,male,home decor,44.17,4,cash,19,3,8.83,185.51000000000002
+Inv1466,normal,male,Health,140.17,7,cash,17,1,49.06,1030.25
+Inv1467,member,female,Beverages,165.18,8,UPI,14,2,66.07,1387.51
+Inv1468,member,female,Health,13.03,1,UPI,12,1,0.65,13.68
+Inv1469,normal,male,Eloctronics,135.73,5,cash,20,1,33.93,712.5799999999999
+Inv1470,member,female,Beverages,190.55,7,card,9,4,66.69,1400.5400000000002
+Inv1471,normal,male,Health,29.22,4,UPI,16,3,5.84,122.72
+Inv1472,member,male,home decor,179.76,4,cash,15,3,35.95,754.99
+Inv1473,normal,male,home decor,120.98,4,UPI,10,4,24.2,508.12
+Inv1474,member,female,Beakery,125.24,6,card,16,1,37.57,789.01
+Inv1475,normal,female,Health,124.52,7,cash,20,2,43.58,915.22
+Inv1476,member,female,clothing,63.27,2,UPI,13,1,6.33,132.87
+Inv1477,normal,female,Health,187.36,5,card,15,1,46.84,983.6400000000001
+Inv1478,member,female,Beverages,189.73,4,UPI,12,2,37.95,796.87
+Inv1479,normal,female,Beverages,126.93,3,card,13,4,19.04,399.83000000000004
+Inv1480,normal,female,Health,157.77,7,card,16,3,55.22,1159.6100000000001
+Inv1481,normal,female,Eloctronics,124.39,6,cash,9,4,37.32,783.6600000000001
+Inv1482,member,female,home decor,99.46,7,card,9,4,34.81,731.03
+Inv1483,normal,male,Beverages,133.86,5,UPI,12,1,33.47,702.7700000000001
+Inv1484,member,female,home decor,112.84,6,card,11,3,33.85,710.89
+Inv1485,normal,female,Beverages,121.51,5,card,21,3,30.38,637.9300000000001
+Inv1486,member,female,Beakery,157.85,7,cash,18,4,55.25,1160.2
+Inv1487,normal,female,clothing,98.78,2,card,20,2,9.88,207.44
+Inv1488,member,female,Beverages,12.95,5,card,10,4,3.24,67.99
+Inv1489,member,female,home decor,36.98,6,UPI,20,2,11.09,232.97
+Inv1490,normal,female,Beakery,90.53,6,cash,11,3,27.16,570.34
+Inv1491,member,female,Beverages,146.34,5,cash,19,4,36.58,768.2800000000001
+Inv1492,member,female,Eloctronics,120.69,7,cash,19,1,42.24,887.0699999999999
+Inv1493,normal,female,clothing,131.81,8,card,19,4,52.72,1107.2
+Inv1494,member,female,Beverages,98.46,7,cash,9,3,34.46,723.68
+Inv1495,member,male,Beakery,125.07,5,card,9,1,31.27,656.6199999999999
+Inv1496,member,male,Eloctronics,69.16,1,card,14,1,3.46,72.61999999999999
+Inv1497,normal,female,Health,96.69,5,UPI,13,2,24.17,507.62
+Inv1498,member,female,Beakery,150.13,2,UPI,16,1,15.01,315.27
+Inv1499,normal,male,Beakery,175.01,5,UPI,10,1,43.75,918.8
